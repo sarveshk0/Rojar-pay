@@ -22,6 +22,7 @@ npm (Node Package Manager)
 
 **Clone the repository:**
  git clone https://github.com/sarveshk0/Rojar-pay.git
+ 
 cd Rojar-pay
 
 
